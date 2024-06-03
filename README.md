@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mohammad Rabbani! 👋
 
 ![Profile views](https://gpvc.arturio.dev/yourusername) 
 
@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **[Project/Technology]**
 - 🤔 I’m looking for help with **[Problem/Technology]**
 - 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: [Your Email]
+- 📫 oHw to reach me: rabbaniindia2000@gmail.com
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact About You]
 
