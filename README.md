@@ -4,13 +4,26 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **[Project/Technology]**
-- 🤔 I’m looking for help with **[Problem/Technology]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 oHw to reach me: rabbaniindia2000@gmail.com
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+🌱 I’m currently learning:
+I'm actively expanding my expertise in React Native and diving deeper into TypeScript and GraphQL to integrate data in my applications better. I'm also exploring Vue.js as part of my journey to learn new frontend technologies and broaden my skill set in building modern, scalable applications.
+
+👯 I’m looking to collaborate on:
+I’m eager to collaborate on open-source projects focusing on UI/UX design, front-end development, and building React.js or Next.js applications. Whether it’s refining design systems, optimizing code, or solving complex frontend challenges, I’m passionate about working with others to build better user experiences.
+
+🤔 I’m looking for help with:
+At the moment, I’m looking for guidance on state management in large React applications (especially with Redux or Context API) and best practices for building efficient design systems. If you have experience in these areas, I’d love to learn from you!
+
+💬 Ask me about:
+Feel free to ask me about React.js, Next.js, UI/UX design principles, and frontend best practices. I’m particularly passionate about building intuitive user interfaces and creating seamless experiences across web and mobile platforms.
+
+📫 How to reach me:
+You can reach me via email at rabbaniindia2000@gmail.com. I’m always open to connecting with fellow developers, designers, or anyone interested in working on exciting web projects.
+
+😄 Pronouns:
+He/Him
+
+⚡ Fun fact:
+When I’m not coding, I’m usually experimenting with new design tools, contributing to open-source projects, or exploring the intersection of interactive storytelling and design. I love to solve creative challenges and share knowledge with others in the developer community!
 
 ## Skills
 
@@ -22,8 +35,7 @@ Here are some of the technologies and tools I work with:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## Projects
 
